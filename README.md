@@ -10,7 +10,7 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 
 The slides are available here.
 
-## What I Used to Teach Gladly, and Don't Anymore
+## What I Used to Teach Gladly, and am Trying to Quit Doing
 
 - Null hypothesis significance testing is here to stay.
     - Learn how to present your p value so it looks like what everyone else does
