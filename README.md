@@ -3,8 +3,12 @@
 Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 
 - Professor of Medicine, Population & Quantitative Health Sciences, Case Western Reserve University
-- Director of Biostatistics and Evaluation, Center for Health Care Research and Policy
-- Chief Data Scientist, Better Health Partnership
+- Director of Biostatistics and Evaluation, [Center for Health Care Research and Policy](http://chrp.org/)
+- Chief Data Scientist, [Better Health Partnership](http://betterhealthpartnership.org/)
+
+# The Slides from Today's Talk
+
+The slides are available here.
 
 # Sources of Material in the Talk
 
