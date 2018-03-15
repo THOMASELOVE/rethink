@@ -14,14 +14,15 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
     - The many supplemental materials can be found at [this link](https://www.tandfonline.com/doi/suppl/10.1080/00031305.2016.1154108?scroll=top). 
 - "[Why Most Published Research Findings Are False](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)" by John P. A. Ioannidis, *PLOS Medicine* August 2005: https://doi.org/10.1371/journal.pmed.0020124
 - "[The Value of a *p*-valueless Paper](https://www.nature.com/ajg/journal/v99/n9/pdf/ajg2004321a.pdf?origin=ppub&foxtrotcallback=true)" by Jason T. Connor, *Amer J Gastroenterology* 2004, 99(9): 1638-1640.
-- Mark DB, Lee KL, Harrell FE (2016) [Understanding the Role of P Values and Hypothesis Tests in Clinical Research](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566171) in JAMA Cardiology.
-- Thomas LW Pencina MH (2016) [Do Not Over (*P*) Value Your Research Article](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566166) editorial in JAMA Cardiology following Mark et al.
+- [Understanding the Role of P Values and Hypothesis Tests in Clinical Research](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566171) by Daniel B. Mark, Kerry L. Lee and Frank E. Harrell Jr. (December 2016) *JAMA Cardiology* 1(9):1048-1054. doi:10.1001/jamacardio.2016.3312
+- [Do Not Over (*P*) Value Your Research Article](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566166) by Laine E. Thomas, Michael J. Pencina (December 2016) editorial in *JAMA Cardiology*  1(9): 1055. doi:10.1001/jamacardio.2016.3827
 - Benjamin D et al. (2017) [Redefine Statistical Significance](https://psyarxiv.com/mky9j/)
     - [It will be much harder to call findings "significant" if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way) in *Science* by Kelly Servick
-    - Lakens D et al. [Justify Your Alpha: A Response to “Redefine Statistical Significance](https://psyarxiv.com/9s3y6)
-    - McShane BB et al. [Abandon Statistical Significance](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
-- Simmons JP et al. (2011) [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](http://journals.sagepub.com/doi/abs/10.1177/0956797611417632)
-- Gelman A Loken E (2013) [The garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
+    - Lakens D et al. [Justify Your Alpha: A Response to "Redefine Statistical Significance"](https://psyarxiv.com/9s3y6)
+    - McShane Bradley B., Gal, David et al. [Abandon Statistical Significance](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
+- Simmons JP et al. (2011) [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](http://journals.sagepub.com/doi/abs/10.1177/0956797611417632) *Psychological Science* 22(11): 1359-1366. 
+- Gelman A Loken E (2013) [The garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf): Why multiple comparisons can be a problem, even when there is no "fishing expedition" or "p-hacking" and the research hypothesis was posited ahead of time.
+- Gelman A (2013) [Too good to be true](http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html) *Slate* July 24. Subtitle: Statistics may say that women wear red when they’re fertile... but you can't always trust statistics.
 - From FiveThirtyEight.com
     - ["Not Even Scientists Can Easily Explain p Values" article and video](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) by Christie Aschwanden
     - ["Statisticians Found One Thing They Can Agree On: It’s Time To Stop Misusing P-Values"](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/) discussion of the American Statistical Association's 2016 Statement on P values, by Christie Aschwanden.
