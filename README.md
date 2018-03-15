@@ -14,9 +14,19 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
     - The many supplemental materials can be found at [this link](https://www.tandfonline.com/doi/suppl/10.1080/00031305.2016.1154108?scroll=top). 
 - "[Why Most Published Research Findings Are False](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)" by John P. A. Ioannidis, *PLOS Medicine* August 2005: https://doi.org/10.1371/journal.pmed.0020124
 - "[The Value of a *p*-valueless Paper](https://www.nature.com/ajg/journal/v99/n9/pdf/ajg2004321a.pdf?origin=ppub&foxtrotcallback=true)" by Jason T. Connor, *Amer J Gastroenterology* 2004, 99(9): 1638-1640.
+- Mark DB, Lee KL, Harrell FE (2016) [Understanding the Role of P Values and Hypothesis Tests in Clinical Research](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566171) in JAMA Cardiology.
+- Thomas LW Pencina MH (2016) [Do Not Over (*P*) Value Your Research Article](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566166) editorial in JAMA Cardiology following Mark et al.
+- Benjamin D et al. (2017) [Redefine Statistical Significance](https://psyarxiv.com/mky9j/)
+    - [It will be much harder to call findings "significant" if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way) in *Science* by Kelly Servick
+    - Lakens D et al. [Justify Your Alpha: A Response to “Redefine Statistical Significance](https://psyarxiv.com/9s3y6)
+    - McShane BB et al. [Abandon Statistical Significance](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
+- Simmons JP et al. (2011) [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](http://journals.sagepub.com/doi/abs/10.1177/0956797611417632)
+- Gelman A Loken E (2013) [The garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf)
 - From FiveThirtyEight.com
     - ["Not Even Scientists Can Easily Explain p Values" article and video](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) by Christie Aschwanden
     - ["Statisticians Found One Thing They Can Agree On: It’s Time To Stop Misusing P-Values"](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/) discussion of the American Statistical Association's 2016 Statement on P values, by Christie Aschwanden.
+    - [Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken) by Christie Aschwanden, with p-hacking graphic by Ritchie King
+    - [Finally, A Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/) by Jeff Leek
 - From Nature.com
     - [Psychology journal bans P values](http://www.nature.com/news/psychology-journal-bans-p-values-1.17001) on the banning of null hypothesis significance testing by *Basic and Applied Psychology*, by Chris Woolston, 2015-03-09.
     - [Scientific method: Statistical errors](https://www.nature.com/news/scientific-method-statistical-errors-1.14700) column on *p* values by Regina Nuzzo, 2014-02-12. "the P value, which is neither as reliable nor as objective as most scientists assume"
@@ -24,9 +34,30 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
     - "[Marginally Significant Effects as Evidence for Hypotheses: Changing Attitudes Over Four Decades](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)" 2016-10-15.
     - "[My favorite definition of statistical significance](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)" 2017-10-28.
         - Gelman A Weakliem D [Of Beauty, Sex and Power](http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf) *American Scientist* 97, 310-316.
+    - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
+    - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
+
 - XKCD cartoons include:
-    - [ISO 8601](https://xkcd.com/1179/)
-    - [Significant](https://xkcd.com/882/)
+    - [ISO 8601 (Public Service Announcement)](https://xkcd.com/1179/)
+    - [Significant (Green Jelly Beans)](https://xkcd.com/882/)
 - [Sad *p* value bear meme](https://simplystatistics.org/2013/08/26/statistics-meme-sad-p-value-bear/) discussion from Jeff Leek at Simply Statistics
+- Karl Broman has all kinds of great stuff, including the "I'm really sorry you did all the work" slide in [this talk](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf) 
 - Tweets
     - Michael Donohoe [Comprehensive map of all countries in the world that use the MMDDYYYY format](https://twitter.com/donohoe/status/597876118688026624)
+
+
+## Maybe
+
+- PhD Comics on [Naming Things](http://www.phdcomics.com/comics/archive.php?comicid=1531)
+- NPR's On The Media [Breaking News Consumer's Handbook for Health News](http://www.healthnewsreview.org/2015/07/nprs-on-the-media-with-a-skeptics-guide-to-health-newsdiet-fads/)
+
+- Kass RE et al. (2016) [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
+    - The Leek Group [Guide to Data Sharing](https://github.com/jtleek/datasharing)
+    - Jeff Leek's books on LeanPub:
+        - [How To Be a Modern Scientist](https://leanpub.com/modernscientist)
+        - [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
+    - Jenny Bryan's [How To Name Files](https://speakerdeck.com/jennybc/how-to-name-files) presentation
+    - Jenny Bryan's [Happy Git and GitHub for the UseR](http://happygitwithr.com/) page
+    - Karl Broman's [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/) page
+    - Harrell FE Scott T (2012) [Reproducible Research Tutorial](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ReproducibleResearchTutorial/HarrellScottTutorial-useR2012.pdf)
+    - Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
