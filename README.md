@@ -10,6 +10,38 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 
 The slides are available here.
 
+## What I Used to Teach Gladly, and Don't Anymore
+
+- Null hypothesis significance testing is here to stay.
+    - Learn how to present your p value so it looks like what everyone else does
+    - Think about "statistically detectable" rather than "statistically significant"
+    - Don't accept a null hypothesis, just retain it.
+- Use point and interval estimates
+    - Try to get your statements about confidence intervals right (right = just like I said it)
+- Use Bayesian approaches when they seem appropriate
+    - But look elsewhere for people to teach/do that stuff
+- Use simulation to help you understand non-standard designs
+    - But, again, look elsewhere for examples
+- Power is basically a hurdle to overcome in a grant application
+    - Retrospective power calculations are a waste of time and effort
+    
+## What I Think I Think Now
+
+- Null hypothesis significance testing is much harder than I thought.
+    - The null hypothesis is almost never a real thing.
+    - Rather than rejiggering the cutoff, I would mostly abandon the *p* value as a summary
+    - Replication is far more useful than I thought it was.
+- Some hills aren't worth dying on.
+    - Think about uncertainty intervals more than confidence or credible intervals
+    - Retrospective calculations about Type S (sign) and Type M (magnitude) errors can help me illustrate ideas.
+- Which method to use is far less important than finding better data
+    - The biggest mistake I make regularly is throwing away useful data
+    - I'm not the only one with this problem.
+- The best thing I do most days is communicate more clearly.
+    - When stuck in a design, I think about how to get better data.
+    - When stuck in an analysis, I try to turn a table into a graph.
+- I have A LOT to learn.
+
 # Sources of Material in the Talk
 
 - [The ASA's Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.Wqqvlej4-Uk). ASA = American Statistical Association
@@ -60,5 +92,16 @@ The slides are available here.
  - Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
 - Tweets
     - Michael Donohoe [Comprehensive map of all countries in the world that use the MMDDYYYY format](https://twitter.com/donohoe/status/597876118688026624)
-
+    - Chelsea Pelleriti [What's your 280 character definition of a confidence interval?](https://twitter.com/ChelseaParlett/status/973657698536366080)
+    - Joran Elias [A confidence interval is ...](https://twitter.com/joranelias/status/973662113657843712)
+    - Thomas Leeper [An interval drawn such that ...](https://twitter.com/thosjleeper/status/973664676897837057)
+    - Jenny Bryan [Why is this the hill that statisticians choose to die on?](https://twitter.com/JennyBryan/status/946433827076939776)
+    - Frank Harrell [It's important to get this right](https://twitter.com/f2harrell/status/946437578391216129)
+    - Jenny Bryan [Decision making under uncertainty struggles](https://twitter.com/JennyBryan/status/94644114851556)
+    - J. P. de Ruiter [Specific null, arbitrary alternative...](https://twitter.com/JPdeRuiter/status/963481008417988609)
+    - John Holbein [Nothing screams GRADUATE STUDENT ...](https://twitter.com/JohnHolbein1/status/967815244574703616)
+    - Sean J. Taylor, Facebook Core Statistics Team
+        - [If OLS doesn't work, get better data](https://twitter.com/seanjtaylor/status/967940381831716864) 
+        - [Often a better ROI for improving data](https://twitter.com/seanjtaylor/status/968145837976051712) 
+        - [Training on methods vs. finding/making/designing better data](https://twitter.com/seanjtaylor/status/968147593845813250)
 
