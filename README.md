@@ -39,26 +39,19 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
     - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
     - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
 
+- [A few things that would reduce stress around reproducibility/replicability in science](https://simplystatistics.org/2017/11/21/rr-sress/) by Jeff Leek at Simply Statistics, 2017-11-21.
+- Jeff Leek's books on LeanPub:
+    - [How To Be a Modern Scientist](https://leanpub.com/modernscientist)
+    - [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
 - XKCD cartoons include:
     - [ISO 8601 (Public Service Announcement)](https://xkcd.com/1179/)
     - [Significant (Green Jelly Beans)](https://xkcd.com/882/)
 - [Sad *p* value bear meme](https://simplystatistics.org/2013/08/26/statistics-meme-sad-p-value-bear/) discussion from Jeff Leek at Simply Statistics
 - Karl Broman has all kinds of great stuff, including the "I'm really sorry you did all the work" slide in [this talk](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf) 
+ - Karl Broman's [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/) page
+ - Harrell FE Scott T (2012) [Reproducible Research Tutorial](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ReproducibleResearchTutorial/HarrellScottTutorial-useR2012.pdf)
+ - Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
 - Tweets
     - Michael Donohoe [Comprehensive map of all countries in the world that use the MMDDYYYY format](https://twitter.com/donohoe/status/597876118688026624)
 
 
-## Maybe
-
-- PhD Comics on [Naming Things](http://www.phdcomics.com/comics/archive.php?comicid=1531)
-- NPR's On The Media [Breaking News Consumer's Handbook for Health News](http://www.healthnewsreview.org/2015/07/nprs-on-the-media-with-a-skeptics-guide-to-health-newsdiet-fads/)
-
-    - The Leek Group [Guide to Data Sharing](https://github.com/jtleek/datasharing)
-    - Jeff Leek's books on LeanPub:
-        - [How To Be a Modern Scientist](https://leanpub.com/modernscientist)
-        - [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
-    - Jenny Bryan's [How To Name Files](https://speakerdeck.com/jennybc/how-to-name-files) presentation
-    - Jenny Bryan's [Happy Git and GitHub for the UseR](http://happygitwithr.com/) page
-    - Karl Broman's [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/) page
-    - Harrell FE Scott T (2012) [Reproducible Research Tutorial](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ReproducibleResearchTutorial/HarrellScottTutorial-useR2012.pdf)
-    - Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
