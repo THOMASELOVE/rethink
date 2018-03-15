@@ -23,6 +23,7 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 - Simmons JP et al. (2011) [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](http://journals.sagepub.com/doi/abs/10.1177/0956797611417632) *Psychological Science* 22(11): 1359-1366. 
 - Gelman A Loken E (2013) [The garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf): Why multiple comparisons can be a problem, even when there is no "fishing expedition" or "p-hacking" and the research hypothesis was posited ahead of time.
 - Gelman A (2013) [Too good to be true](http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html) *Slate* July 24. Subtitle: Statistics may say that women wear red when they’re fertile... but you can't always trust statistics.
+- Kass RE et al. (2016) [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 - From FiveThirtyEight.com
     - ["Not Even Scientists Can Easily Explain p Values" article and video](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) by Christie Aschwanden
     - ["Statisticians Found One Thing They Can Agree On: It’s Time To Stop Misusing P-Values"](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/) discussion of the American Statistical Association's 2016 Statement on P values, by Christie Aschwanden.
@@ -52,7 +53,6 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 - PhD Comics on [Naming Things](http://www.phdcomics.com/comics/archive.php?comicid=1531)
 - NPR's On The Media [Breaking News Consumer's Handbook for Health News](http://www.healthnewsreview.org/2015/07/nprs-on-the-media-with-a-skeptics-guide-to-health-newsdiet-fads/)
 
-- Kass RE et al. (2016) [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
     - The Leek Group [Guide to Data Sharing](https://github.com/jtleek/datasharing)
     - Jeff Leek's books on LeanPub:
         - [How To Be a Modern Scientist](https://leanpub.com/modernscientist)
