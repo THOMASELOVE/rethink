@@ -58,7 +58,9 @@ The slides are available here.
     - McShane Bradley B., Gal, David et al. [Abandon Statistical Significance](http://www.stat.columbia.edu/~gelman/research/unpublished/abandon.pdf)
 - Simmons JP et al. (2011) [False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant](http://journals.sagepub.com/doi/abs/10.1177/0956797611417632) *Psychological Science* 22(11): 1359-1366. 
 - Gelman A Loken E (2013) [The garden of forking paths](http://www.stat.columbia.edu/~gelman/research/unpublished/p_hacking.pdf): Why multiple comparisons can be a problem, even when there is no "fishing expedition" or "p-hacking" and the research hypothesis was posited ahead of time.
-- Gelman A (2013) [Too good to be true](http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html) *Slate* July 24. Subtitle: Statistics may say that women wear red when they’re fertile... but you can't always trust statistics.
+- Gelman Andrew (2013) [Too good to be true](http://www.slate.com/articles/health_and_science/science/2013/07/statistics_and_psychology_multiple_comparisons_give_spurious_results.html) *Slate* July 24. Subtitle: Statistics may say that women wear red when they’re fertile... but you can't always trust statistics.
+- Gelman Andrew Weakliem D [Of Beauty, Sex and Power](http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf) *American Scientist* 97, 310-316.
+- Gelman Andrew Carlin John [Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf) *Psychological Science* 2014, 9(6): 641-651.
 - Kass RE et al. (2016) [Ten Simple Rules for Effective Statistical Practice](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004961)
 - From FiveThirtyEight.com
     - ["Not Even Scientists Can Easily Explain p Values" article and video](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) by Christie Aschwanden
@@ -73,7 +75,7 @@ The slides are available here.
 - From Andrew Gelman's blog "Statistical Modeling, Causal Inference, and Social Science"
     - "[Marginally Significant Effects as Evidence for Hypotheses: Changing Attitudes Over Four Decades](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)" 2016-10-15.
     - "[My favorite definition of statistical significance](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)" 2017-10-28.
-        - Gelman A Weakliem D [Of Beauty, Sex and Power](http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf) *American Scientist* 97, 310-316.
+        
     - "[The Fallacy of Placing Confidence in Confidence Intervals](http://andrewgelman.com/2014/12/11/fallacy-placing-confidence-confidence-intervals/)" 2014-12-11
     - "[Instead of 'confidence interval,' let’s say 'uncertainty interval'](http://andrewgelman.com/2010/12/21/lets_say_uncert/)" 2010-12-21
     - "[Statistics is like basketball or knitting](http://andrewgelman.com/2016/03/11/statistics-is-like-basketball-or-knitting/)" 2016-03-11.
@@ -81,6 +83,9 @@ The slides are available here.
     - "[More on my paper with John Carlin on Type M and Type S errors](http://andrewgelman.com/2016/11/13/more-on-my-paper-with-john-carlin-on-type-m-and-type-s-errors/)" 2016-10-13.
     - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
     - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
+    - "[The feather, the bathroom scale, and the kangaroo](http://andrewgelman.com/2015/04/21/feather-bathroom-scale-kangaroo/)" 2015-04-21
+    - "[How can statisticians help psychologists do their research better?](http://andrewgelman.com/2013/05/17/how-can-statisticians-help-psychologists-do-their-research-better/)" 2013-05-17
+ 
 
 - [A few things that would reduce stress around reproducibility/replicability in science](https://simplystatistics.org/2017/11/21/rr-sress/) by Jeff Leek at Simply Statistics, 2017-11-21.
 - Jeff Leek's books on LeanPub:
