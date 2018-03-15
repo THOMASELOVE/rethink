@@ -74,6 +74,8 @@ The slides are available here.
     - "[Marginally Significant Effects as Evidence for Hypotheses: Changing Attitudes Over Four Decades](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)" 2016-10-15.
     - "[My favorite definition of statistical significance](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)" 2017-10-28.
         - Gelman A Weakliem D [Of Beauty, Sex and Power](http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf) *American Scientist* 97, 310-316.
+    - "[The Fallacy of Placing Confidence in Confidence Intervals](http://andrewgelman.com/2014/12/11/fallacy-placing-confidence-confidence-intervals/)" 2014-12-11
+    - "[Instead of 'confidence interval,' let’s say 'uncertainty interval'](http://andrewgelman.com/2010/12/21/lets_say_uncert/)" 2010-12-21
     - "[Statistics is like basketball or knitting](http://andrewgelman.com/2016/03/11/statistics-is-like-basketball-or-knitting/)" 2016-03-11.
     - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
     - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
@@ -82,6 +84,7 @@ The slides are available here.
 - Jeff Leek's books on LeanPub:
     - [How To Be a Modern Scientist](https://leanpub.com/modernscientist)
     - [The Elements of Data Analytic Style](https://leanpub.com/datastyle)
+- Jeff Leek's [tidypvals package in R, on GitHub](https://github.com/jtleek/tidypvals)
 - XKCD cartoons include:
     - [ISO 8601 (Public Service Announcement)](https://xkcd.com/1179/)
     - [Significant (Green Jelly Beans)](https://xkcd.com/882/)
@@ -98,7 +101,10 @@ The slides are available here.
     - Jenny Bryan [Why is this the hill that statisticians choose to die on?](https://twitter.com/JennyBryan/status/946433827076939776)
     - Frank Harrell [It's important to get this right](https://twitter.com/f2harrell/status/946437578391216129)
     - Jenny Bryan [Decision making under uncertainty struggles](https://twitter.com/JennyBryan/status/94644114851556)
+    - Jeff Leek [2.5 million p values](https://twitter.com/jtleek/status/890180014733492225)
+    - Michael Lopez [analyzes some of those p values](https://twitter.com/StatsbyLopez/status/890230164042469376)
     - J. P. de Ruiter [Specific null, arbitrary alternative...](https://twitter.com/JPdeRuiter/status/963481008417988609)
+    - Randy Sweis [p value of 0.06 trending...](https://twitter.com/RandySweisMD/status/951828002807132160)
     - John Holbein [Nothing screams GRADUATE STUDENT ...](https://twitter.com/JohnHolbein1/status/967815244574703616)
     - Sean J. Taylor, Facebook Core Statistics Team
         - [If OLS doesn't work, get better data](https://twitter.com/seanjtaylor/status/967940381831716864) 
