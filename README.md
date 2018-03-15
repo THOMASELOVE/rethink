@@ -33,6 +33,8 @@ The slides are available here.
     - ["Statisticians Found One Thing They Can Agree On: It’s Time To Stop Misusing P-Values"](http://fivethirtyeight.com/features/statisticians-found-one-thing-they-can-agree-on-its-time-to-stop-misusing-p-values/) discussion of the American Statistical Association's 2016 Statement on P values, by Christie Aschwanden.
     - [Science isn't broken](https://fivethirtyeight.com/features/science-isnt-broken) by Christie Aschwanden, with p-hacking graphic by Ritchie King
     - [Finally, A Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/) by Jeff Leek
+- [Rethinking Science's Magic Number](http://www.pbs.org/wgbh/nova/next/body/rethinking-sciences-magic-number/) from Tiffany Dill at NOVA Next. 2018-02-28.
+    - and see NOVA Season 45 Episode 6 [Prediction by the Numbers](http://www.pbs.org/video/prediction-by-the-numbers-hg2znc/) 2018-02-28.
 - From Nature.com
     - [Psychology journal bans P values](http://www.nature.com/news/psychology-journal-bans-p-values-1.17001) on the banning of null hypothesis significance testing by *Basic and Applied Psychology*, by Chris Woolston, 2015-03-09.
     - [Scientific method: Statistical errors](https://www.nature.com/news/scientific-method-statistical-errors-1.14700) column on *p* values by Regina Nuzzo, 2014-02-12. "the P value, which is neither as reliable nor as objective as most scientists assume"
@@ -40,6 +42,7 @@ The slides are available here.
     - "[Marginally Significant Effects as Evidence for Hypotheses: Changing Attitudes Over Four Decades](http://andrewgelman.com/2016/10/15/marginally-significant-effects-as-evidence-for-hypotheses-changing-attitudes-over-four-decades/)" 2016-10-15.
     - "[My favorite definition of statistical significance](http://andrewgelman.com/2017/10/28/favorite-definition-statistical-significance/)" 2017-10-28.
         - Gelman A Weakliem D [Of Beauty, Sex and Power](http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf) *American Scientist* 97, 310-316.
+    - "[Statistics is like basketball or knitting](http://andrewgelman.com/2016/03/11/statistics-is-like-basketball-or-knitting/)" 2016-03-11.
     - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
     - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
 
