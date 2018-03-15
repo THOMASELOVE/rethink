@@ -77,6 +77,8 @@ The slides are available here.
     - "[The Fallacy of Placing Confidence in Confidence Intervals](http://andrewgelman.com/2014/12/11/fallacy-placing-confidence-confidence-intervals/)" 2014-12-11
     - "[Instead of 'confidence interval,' let’s say 'uncertainty interval'](http://andrewgelman.com/2010/12/21/lets_say_uncert/)" 2010-12-21
     - "[Statistics is like basketball or knitting](http://andrewgelman.com/2016/03/11/statistics-is-like-basketball-or-knitting/)" 2016-03-11.
+    - "[How not to analyze noisy data: A case study](http://andrewgelman.com/2016/10/25/how-not-to-analyze-noisy-data-a-case-study/)" 2016-10-25.
+    - "[More on my paper with John Carlin on Type M and Type S errors](http://andrewgelman.com/2016/11/13/more-on-my-paper-with-john-carlin-on-type-m-and-type-s-errors/)" 2016-10-13.
     - "[Researcher Degrees of Freedom](http://andrewgelman.com/2012/11/01/researcher-degrees-of-freedom/)" 2012-11-01
     - "[Abandon statistical significance](http://andrewgelman.com/2017/09/26/abandon-statistical-significance/)" 2017-09-26
 
