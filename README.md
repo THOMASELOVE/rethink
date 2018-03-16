@@ -10,7 +10,9 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 # The Slides from Today's Talk
 
 The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/master/Love_2018-03-16.pdf) and were built using [R Markdown](https://raw.githubusercontent.com/THOMASELOVE/rethink/master/Love_2018-03-16.Rmd).
-    - The video I showed at the start is "[Not Even Scientists can easily explain *p* values](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" from FiveThirtyEight.com
+
+- The video I showed at the start is "[Not Even Scientists can easily explain *p* values](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" from FiveThirtyEight.com
+- The p-hacking interactive game is part of "Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/), also at FiveThirtyEight.com
 
 ## What I Used to Teach Gladly, and am Trying to Quit Doing
 
