@@ -15,7 +15,7 @@ The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/ma
 - Another video that you might enjoy is part of [Rethinking Science's Magic Number](http://www.pbs.org/wgbh/nova/next/body/rethinking-sciences-magic-number/) from NOVA, in particular the video subtitled *Science's most important (and controversial) number has its origins in a British experiment involving milk and tea.*
 - The p-hacking interactive game is part of [Science Isn't Broken](https://fivethirtyeight.com/features/science-isnt-broken/), also at FiveThirtyEight.com
 
-## What I Used to Teach Gladly, and am Trying to Quit Doing
+## What I Used to Teach (and think I was doing well...)
 
 - Null hypothesis significance testing is here to stay.
     - Learn how to present your p value so it looks like what everyone else does
