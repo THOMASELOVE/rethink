@@ -80,10 +80,11 @@ The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/ma
 - [Psychology journal bans P values](http://www.nature.com/news/psychology-journal-bans-p-values-1.17001) on the banning of null hypothesis significance testing by *Basic and Applied Psychology*, by Chris Woolston, 2015-03-09.
 - [Scientific method: Statistical errors](https://www.nature.com/news/scientific-method-statistical-errors-1.14700) column on *p* values by Regina Nuzzo, 2014-02-12. "the P value, which is neither as reliable nor as objective as most scientists assume"
 
-### NOVA
+### NOVA and NPR
 
 - [Rethinking Science's Magic Number](http://www.pbs.org/wgbh/nova/next/body/rethinking-sciences-magic-number/) from Tiffany Dill at NOVA Next. 2018-02-28.
 - NOVA Season 45 Episode 6 [Prediction by the Numbers](http://www.pbs.org/video/prediction-by-the-numbers-hg2znc/) 2018-02-28.
+- NPR's [On the Media with a skeptic’s guide to health news/diet fads](http://www.healthnewsreview.org/2015/07/nprs-on-the-media-with-a-skeptics-guide-to-health-newsdiet-fads/). July 2015.
 
 ### Andrew Gelman's blog "Statistical Modeling, Causal Inference, and Social Science"
 
@@ -109,10 +110,11 @@ The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/ma
 - [Sad *p* value bear meme](https://simplystatistics.org/2013/08/26/statistics-meme-sad-p-value-bear/) discussion from Jeff Leek at Simply Statistics
 
 ### On Reproducible Research
+
 - Karl Broman has all kinds of great stuff, including the "I'm really sorry you did all the work" slide in [this talk](https://www.biostat.wisc.edu/~kbroman/presentations/repro_research_UMass2016.pdf) 
- - Karl Broman's [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/) page
- - Harrell FE Scott T (2012) [Reproducible Research Tutorial](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ReproducibleResearchTutorial/HarrellScottTutorial-useR2012.pdf)
- - Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
+- Karl Broman's [Initial Steps Towards Reproducible Research](http://kbroman.org/steps2rr/) page
+- Harrell FE Scott T (2012) [Reproducible Research Tutorial](http://biostat.mc.vanderbilt.edu/wiki/pub/Main/ReproducibleResearchTutorial/HarrellScottTutorial-useR2012.pdf) from Vanderbilt U.
+- Donoho DL (2010) [An invitation to reproducible computational research](https://academic.oup.com/biostatistics/article/11/3/385/257703)
 
 ### Cartoons
 
