@@ -10,6 +10,7 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 # The Slides from Today's Talk
 
 The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/master/Love_2018-03-16.pdf) and were built using [R Markdown](https://raw.githubusercontent.com/THOMASELOVE/rethink/master/Love_2018-03-16.Rmd).
+    - The video I showed at the start is "[Not Even Scientists can easily explain *p* values](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)" from FiveThirtyEight.com
 
 ## What I Used to Teach Gladly, and am Trying to Quit Doing
 
@@ -43,7 +44,7 @@ The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/ma
     - When stuck in an analysis, I try to turn a table into a graph.
 - I have A LOT to learn.
 
-# Sources of Material in the Talk
+# Sources of Material in the Talk (plus a few things that didn't make the final cut)
 
 - [The ASA's Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.Wqqvlej4-Uk). ASA = American Statistical Association
     - Full Citation: Ronald L. Wasserstein & Nicole A. Lazar (2016) The ASA's Statement on p-Values: Context, Process, and Purpose, *The American Statistician*, 70:2, 129-133, DOI: 10.1080/00031305.2016.1154108
