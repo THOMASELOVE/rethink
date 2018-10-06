@@ -1,4 +1,4 @@
-# 2018-03-16 talk "Rethinking Statistical Significance"
+# "Rethinking Statistical Significance"
 
 Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 
@@ -7,9 +7,19 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 - Chief Data Scientist, [Better Health Partnership](http://betterhealthpartnership.org/)
 - `@ThomasELove` and `THOMASELOVE` on Github
 
-# The Slides from Today's Talk
+# 2018-10-10 discussion with KL2 scholars
 
-The slides are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/master/Love_2018-03-16.pdf) and were built using [R Markdown](https://raw.githubusercontent.com/THOMASELOVE/rethink/master/Love_2018-03-16.Rmd).
+Most of the material from the 2018-03-16 version of the talk was incorporated into the materials I used to lead a discussion on many related topics, called "Statistical Significance and Clinical Research" for KL2 scholars on 2018-10-10.
+
+- Here is a [PDF of the slides from the 2018-10-10 discussion](https://github.com/THOMASELOVE/rethink/blob/master/Love_2018-10-10.pdf), although I expect to use about half of them in the actual conversation.
+- The recommended readings in advance of that discussion were:
+    1.  An editorial titled "[Do Not Over (P) Value Your Research Article](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566166)" in JAMA Cardiology from 2016. 
+    2. - [The ASA's Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.Wqqvlej4-Uk). ASA = American Statistical Association. The full citation is Ronald L. Wasserstein & Nicole A. Lazar (2016) The ASA's Statement on p-Values: Context, Process, and Purpose, *The American Statistician*, 70:2, 129-133, DOI: 10.1080/00031305.2016.1154108
+    3. The Science magazine piece by Kelly Servick entitled "[It will be much harder to call new findings ‘significant’ if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way)"
+
+# 2018-03-16 version of the Talk, at the Center for Health Care Research and Policy
+
+The slides from the 2018-03-16 version are available [in PDF](https://github.com/THOMASELOVE/rethink/blob/master/Love_2018-03-16.pdf) and were built using [R Markdown](https://raw.githubusercontent.com/THOMASELOVE/rethink/master/Love_2018-03-16.Rmd).
 
 - The video I showed at the start is [Not Even Scientists can easily explain *p* values](http://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/) from FiveThirtyEight.com
 - Another video that you might enjoy is part of [Rethinking Science's Magic Number](http://www.pbs.org/wgbh/nova/next/body/rethinking-sciences-magic-number/) from NOVA, in particular the video subtitled *Science's most important (and controversial) number has its origins in a British experiment involving milk and tea.*
