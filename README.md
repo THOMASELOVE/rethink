@@ -16,6 +16,10 @@ Most of the material from the 2018-03-16 version of the talk was incorporated in
     1.  Thomas LE Pencina MJ (2016) "[Do Not Over (P) Value Your Research Article](https://jamanetwork.com/journals/jamacardiology/fullarticle/2566166)" *JAMA Cardiology* Editorial. 
     2. Ronald L. Wasserstein & Nicole A. Lazar (2016) [The ASA's Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108?scroll=top&needAccess=true#.Wqqvlej4-Uk), *The American Statistician*, 70:2, 129-133, DOI: 10.1080/00031305.2016.1154108.
     3. The *Science* magazine piece by Kelly Servick entitled "[It will be much harder to call new findings ‘significant’ if this team gets its way](http://www.sciencemag.org/news/2017/07/it-will-be-much-harder-call-new-findings-significant-if-team-gets-its-way)"
+- In addition to the readings below, I encourage you to look at the following items related to the hot topic of the Brian Wansink story:
+    - Anahad O'Connor, [More Evidence That Nutrition Studies Don’t Always Add Up](https://www.nytimes.com/2018/09/29/sunday-review/cornell-food-scientist-wansink-misconduct.html) in the *New York Times*, 2018-09-29.
+    - Andrew Gelman, [Everyone Is Missing the Point About Brian Wansink and P-Hacking](https://slate.com/technology/2018/10/brian-wansink-p-hacking.html) at Slate, 2018-10-08.
+
 
 # 2018-03-16 version of the Talk, at the Center for Health Care Research and Policy
 
