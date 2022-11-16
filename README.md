@@ -7,6 +7,16 @@ Thomas E. Love, Ph.D., Email: `Thomas dot Love at case dot edu`
 - Chief Data Scientist, [Better Health Partnership](http://betterhealthpartnership.org/)
 - `@ThomasELove` and `THOMASELOVE` on Github
 
+# 2022-11-16 Talk to Case Neuroscience Society
+
+[Slides from my talk are here](https://github.com/THOMASELOVE/rethink/blob/master/Love_2022-11-16.pdf).
+
+- [ASA 2016 Statement (pdf)](ASA_2016_Pvalues_Context_Process_Purpose.pdf)
+- [ASA 2019 Statement (pdf)](ASA_2019_A_World_Beyond.pdf)
+- pdf of Jeff Leek and Roger Peng "[P values are just the tip of the iceberg](Leek_and_Peng_2015_Pvalues_Nature.pdf)" in Nature 2015
+- Jeff Leek at FiveThirtyEight [Finally, A Formula for Decoding Health News](https://fivethirtyeight.com/features/a-formula-for-decoding-health-news/)
+- Christie Aschwanden at FiveThirtyEight [Not Even Scientists Can Easily Explain P-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)
+
 # 2018-10-10 discussion with KL2 scholars
 
 Most of the material from the 2018-03-16 version of the talk was incorporated into the materials I used to lead a discussion on many related topics, called "Statistical Significance and Clinical Research" for KL2 scholars on 2018-10-10.
